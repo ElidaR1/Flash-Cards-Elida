@@ -15,7 +15,7 @@ body {
     flex-basis: calc(33% - 6rem);
 }
 
-.cartao_omteudo{
+.cartao_conteudo{
     text-align: center;
     height: 100%;
 }
